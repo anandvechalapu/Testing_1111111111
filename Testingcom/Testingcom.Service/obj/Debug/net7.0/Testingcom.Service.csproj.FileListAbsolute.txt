@@ -1,0 +1,17 @@
+C:\Amar\Debug\Apps\1\506\202305044210\Testingcom\Testingcom.Service\bin\Debug\net7.0\Testingcom.Service.deps.json
+C:\Amar\Debug\Apps\1\506\202305044210\Testingcom\Testingcom.Service\bin\Debug\net7.0\Testingcom.Service.dll
+C:\Amar\Debug\Apps\1\506\202305044210\Testingcom\Testingcom.Service\bin\Debug\net7.0\Testingcom.Service.pdb
+C:\Amar\Debug\Apps\1\506\202305044210\Testingcom\Testingcom.Service\obj\Debug\net7.0\Testingcom.Service.csproj.AssemblyReference.cache
+C:\Amar\Debug\Apps\1\506\202305044210\Testingcom\Testingcom.Service\obj\Debug\net7.0\Testingcom.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Amar\Debug\Apps\1\506\202305044210\Testingcom\Testingcom.Service\obj\Debug\net7.0\Testingcom.Service.AssemblyInfoInputs.cache
+C:\Amar\Debug\Apps\1\506\202305044210\Testingcom\Testingcom.Service\obj\Debug\net7.0\Testingcom.Service.AssemblyInfo.cs
+C:\Amar\Debug\Apps\1\506\202305044210\Testingcom\Testingcom.Service\obj\Debug\net7.0\Testingcom.Service.csproj.CoreCompileInputs.cache
+C:\Amar\Debug\Apps\1\506\202305044210\Testingcom\Testingcom.Service\obj\Debug\net7.0\Testingcom.Service.dll
+C:\Amar\Debug\Apps\1\506\202305044210\Testingcom\Testingcom.Service\obj\Debug\net7.0\refint\Testingcom.Service.dll
+C:\Amar\Debug\Apps\1\506\202305044210\Testingcom\Testingcom.Service\obj\Debug\net7.0\Testingcom.Service.pdb
+C:\Amar\Debug\Apps\1\506\202305044210\Testingcom\Testingcom.Service\obj\Debug\net7.0\ref\Testingcom.Service.dll
+C:\Amar\Debug\Apps\1\506\202305044210\Testingcom\Testingcom.Service\bin\Debug\net7.0\Testingcom.DataAccess.dll
+C:\Amar\Debug\Apps\1\506\202305044210\Testingcom\Testingcom.Service\bin\Debug\net7.0\Testingcom.DTO.dll
+C:\Amar\Debug\Apps\1\506\202305044210\Testingcom\Testingcom.Service\bin\Debug\net7.0\Testingcom.DTO.pdb
+C:\Amar\Debug\Apps\1\506\202305044210\Testingcom\Testingcom.Service\bin\Debug\net7.0\Testingcom.DataAccess.pdb
+C:\Amar\Debug\Apps\1\506\202305044210\Testingcom\Testingcom.Service\obj\Debug\net7.0\Testingcom.Service.csproj.CopyComplete

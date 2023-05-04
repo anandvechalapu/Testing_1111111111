@@ -1,0 +1,12 @@
+C:\Amar\Debug\Apps\1\506\202305044210\Testingcom\Testingcom.DTO\bin\Debug\net7.0\Testingcom.DTO.deps.json
+C:\Amar\Debug\Apps\1\506\202305044210\Testingcom\Testingcom.DTO\bin\Debug\net7.0\Testingcom.DTO.dll
+C:\Amar\Debug\Apps\1\506\202305044210\Testingcom\Testingcom.DTO\bin\Debug\net7.0\Testingcom.DTO.pdb
+C:\Amar\Debug\Apps\1\506\202305044210\Testingcom\Testingcom.DTO\obj\Debug\net7.0\Testingcom.DTO.csproj.AssemblyReference.cache
+C:\Amar\Debug\Apps\1\506\202305044210\Testingcom\Testingcom.DTO\obj\Debug\net7.0\Testingcom.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Amar\Debug\Apps\1\506\202305044210\Testingcom\Testingcom.DTO\obj\Debug\net7.0\Testingcom.DTO.AssemblyInfoInputs.cache
+C:\Amar\Debug\Apps\1\506\202305044210\Testingcom\Testingcom.DTO\obj\Debug\net7.0\Testingcom.DTO.AssemblyInfo.cs
+C:\Amar\Debug\Apps\1\506\202305044210\Testingcom\Testingcom.DTO\obj\Debug\net7.0\Testingcom.DTO.csproj.CoreCompileInputs.cache
+C:\Amar\Debug\Apps\1\506\202305044210\Testingcom\Testingcom.DTO\obj\Debug\net7.0\Testingcom.DTO.dll
+C:\Amar\Debug\Apps\1\506\202305044210\Testingcom\Testingcom.DTO\obj\Debug\net7.0\refint\Testingcom.DTO.dll
+C:\Amar\Debug\Apps\1\506\202305044210\Testingcom\Testingcom.DTO\obj\Debug\net7.0\Testingcom.DTO.pdb
+C:\Amar\Debug\Apps\1\506\202305044210\Testingcom\Testingcom.DTO\obj\Debug\net7.0\ref\Testingcom.DTO.dll

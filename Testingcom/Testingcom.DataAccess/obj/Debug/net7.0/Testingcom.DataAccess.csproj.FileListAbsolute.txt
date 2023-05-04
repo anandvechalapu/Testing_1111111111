@@ -1,0 +1,15 @@
+C:\Amar\Debug\Apps\1\506\202305044210\Testingcom\Testingcom.DataAccess\bin\Debug\net7.0\Testingcom.DataAccess.deps.json
+C:\Amar\Debug\Apps\1\506\202305044210\Testingcom\Testingcom.DataAccess\bin\Debug\net7.0\Testingcom.DataAccess.dll
+C:\Amar\Debug\Apps\1\506\202305044210\Testingcom\Testingcom.DataAccess\bin\Debug\net7.0\Testingcom.DataAccess.pdb
+C:\Amar\Debug\Apps\1\506\202305044210\Testingcom\Testingcom.DataAccess\bin\Debug\net7.0\Testingcom.DTO.dll
+C:\Amar\Debug\Apps\1\506\202305044210\Testingcom\Testingcom.DataAccess\bin\Debug\net7.0\Testingcom.DTO.pdb
+C:\Amar\Debug\Apps\1\506\202305044210\Testingcom\Testingcom.DataAccess\obj\Debug\net7.0\Testingcom.DataAccess.csproj.AssemblyReference.cache
+C:\Amar\Debug\Apps\1\506\202305044210\Testingcom\Testingcom.DataAccess\obj\Debug\net7.0\Testingcom.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Amar\Debug\Apps\1\506\202305044210\Testingcom\Testingcom.DataAccess\obj\Debug\net7.0\Testingcom.DataAccess.AssemblyInfoInputs.cache
+C:\Amar\Debug\Apps\1\506\202305044210\Testingcom\Testingcom.DataAccess\obj\Debug\net7.0\Testingcom.DataAccess.AssemblyInfo.cs
+C:\Amar\Debug\Apps\1\506\202305044210\Testingcom\Testingcom.DataAccess\obj\Debug\net7.0\Testingcom.DataAccess.csproj.CoreCompileInputs.cache
+C:\Amar\Debug\Apps\1\506\202305044210\Testingcom\Testingcom.DataAccess\obj\Debug\net7.0\Testingcom.DataAccess.csproj.CopyComplete
+C:\Amar\Debug\Apps\1\506\202305044210\Testingcom\Testingcom.DataAccess\obj\Debug\net7.0\Testingcom.DataAccess.dll
+C:\Amar\Debug\Apps\1\506\202305044210\Testingcom\Testingcom.DataAccess\obj\Debug\net7.0\refint\Testingcom.DataAccess.dll
+C:\Amar\Debug\Apps\1\506\202305044210\Testingcom\Testingcom.DataAccess\obj\Debug\net7.0\Testingcom.DataAccess.pdb
+C:\Amar\Debug\Apps\1\506\202305044210\Testingcom\Testingcom.DataAccess\obj\Debug\net7.0\ref\Testingcom.DataAccess.dll
