@@ -1,0 +1,18 @@
+<trigger>
+  <project>
+    <name>JIRA TO .NET</name>
+    <description>Generate .NET Code from User Stories</description>
+  </project>
+  <conditions>
+    <condition>
+      <name>Selection and Entry of Required Details</name>
+      <description>User has selected and entered required details</description>
+    </condition>
+  </conditions>
+  <actions>
+    <action>
+      <name>Generate .NET Code</name>
+      <description>Generate .NET Code in the Required Format</description>
+    </action>
+  </actions>
+</trigger>
